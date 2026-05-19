@@ -18,6 +18,10 @@ export const EVIDENCIAS = {
       archivo: "pdfs/unidad-1/Práctica 2 Transferencia del Conocimiento.pdf",
     },
     {
+      titulo: "Práctica 3: Portafolio de Evidencias",
+      archivo: "pdfs/unidad-1/Practica 3 Portafolio de Evidencias.pdf",
+    },
+    {
       titulo: "Cuestionario 1.3: Transferencia de Tecnología",
       archivo: "pdfs/unidad-1/Cuestionario 1.3 Transferencia de Tecnología.pdf",
     },
